@@ -10,7 +10,7 @@ const Hero = () => {
           <h1 className="text-7xl font-bold tracking-wider">
             <Typewriter
               options={{
-                strings: ["Hi, I am Avijit"],
+                strings: ["Hi, I'm Avijit"],
                 autoStart: true,
                 loop: true,
               }}
