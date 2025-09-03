@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="bg-emerald-100">
       <div className="align-element py-4 flex flex-col sm:flex-row sm:gap-x-16 sm:items-center sm:py-8">
-        <div className="flex items-center">
+        <div className="flex items-center gap-2">
           <h2 className="text-3xl font-bold">
             Avijit <span className="text-emerald-600">Biswas</span>
           </h2>
