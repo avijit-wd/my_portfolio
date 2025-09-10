@@ -59,14 +59,16 @@ export const projects = [
     title: "Next Match",
     content: (
       <p class="text-base">
-        A social app for dating and chatting with people. Built with Next.js
-        fullstack framework ( UI - <span class="font-bold">HeroUI</span>,
-        Authentication - <span class="font-bold">Next-Auth</span>, Real time
-        technology - <span class="font-bold">Pusher</span>, API -{" "}
+        A robust social app for dating and chatting with people. Built with
+        Next.js fullstack framework. ( UI -{" "}
+        <span class="font-bold">HeroUI</span>, Authentication -{" "}
+        <span class="font-bold">Next-Auth</span>, Real time technology -{" "}
+        <span class="font-bold">Pusher</span>, API -{" "}
         <span class="font-bold">Server actions</span>, DB -{" "}
         <span class="font-bold">Postgres</span>, Storage -{" "}
         <span class="font-bold">Cloudinary</span>, CI/CD -{" "}
-        <span class="font-bold">Vercel</span>)
+        <span class="font-bold">Github Actions</span>, Deployment -{" "}
+        <span className="font-bold">Vercel</span>)
       </p>
     ),
   },
